@@ -1,4 +1,4 @@
-### Library_Management_System
+### Library Management System
 --------------------------------
 In this project you can do simple library actions you can do;
 * Add a book
