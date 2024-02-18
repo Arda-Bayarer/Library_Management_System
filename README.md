@@ -6,7 +6,7 @@ In this project you can do simple library actions you can do;
 * Add a Member
 * Delete a Member
 * Borrow a book
-* Get back the book back
+* Get back the book
 * Show all books
 * Show all Members
 
